@@ -1,0 +1,43 @@
+{
+	"Lab Section": 12,
+	"Last Modified": "2018-10-03",
+	"OU ID": 11334571,
+	"OU EMAIL": "D.Horn@ou.edu",
+	"Tasks": [
+		{
+			"Description": "Change MapData to work with ArrayList instead of arrays",
+			"Estimated Time (Minutes)": 60,
+			"Actual Time (Minutes)": 120,
+		},
+		{
+			"Description": "Write calculateStatistics method",
+			"Estimated Time (Minutes)": 30,
+			"Actual Time (Minutes)": 45,
+		},
+		{
+			"Description": "Implement GregorianCalendar into statistics",
+			"Estimated Time (Minutes)": 60,
+			"Actual Time (Minutes)": 75,
+		},
+		{
+			"Description": "Implement Statistics methods",
+			"Estimated Time (Minutes)": 90,
+			"Actual Time (Minutes)": 90,
+		},
+		{
+			"Description": "Use interface DateTimeComparable inside of Statistics",
+			"Estimated Time (Minutes)": 60,
+			"Actual Time (Minutes)": 70,
+		},
+		{
+			"Description": "Start reading in data and being debugging",
+			"Estimated Time (Minutes)": 150,
+			"Actual Time (Minutes)": 360,
+		},
+		{
+			"Description": "Write createDateFromString and createStringFromDate methods",
+			"Estimated Time (Minutes)": 60,
+			"Actual Time (Minutes)": 130,
+		},
+	]
+}
